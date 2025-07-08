@@ -9,7 +9,7 @@ This clone mimics the layout and functionality of YouTube’s homepage including
 
 - 📱 Responsive Layout with Flexbox and CSS Grid
 - 🔍 Search Bar (UI Only)
-- 🧭 Sidebar with Navigation Icons (Home, Explore, Library, etc.)
+- 🧭 Sidebar with Navigation Icons (Home, Explore, Library, etc.(design only)
 - 📺 Video Cards with Thumbnails, Durations & Channel Info
 - 🔔 Notification Badge
 - 🧑 User Avatar (Top Right)
@@ -27,9 +27,9 @@ This clone mimics the layout and functionality of YouTube’s homepage including
 
 ---
 
-## 🖼️ Preview
+## 📸 Preview
 
-(preview/normal.PNG)
+![UI_Preview](images/preview.PNG)
 
 ---
 
