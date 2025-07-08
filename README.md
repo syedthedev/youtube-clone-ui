@@ -29,8 +29,7 @@ This clone mimics the layout and functionality of YouTube’s homepage including
 
 ## 🖼️ Preview
 
-👉 Check out the **preview** here:  
-[Preview](images/preview.PNG)
+(preview/normal.PNG)
 
 ---
 
