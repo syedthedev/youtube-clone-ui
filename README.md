@@ -20,7 +20,7 @@ This clone mimics the layout and functionality of YouTube’s homepage including
 
 | File / Folder              | Purpose                                   |
 |---------------------------|-------------------------------------------|
-| `index.html`              | Main HTML structure                       |
+| `Youtube Clone/youtube.html`              | Main HTML structure                       |
 | `Youtube Clone/`          | Contains all stylesheets (`*.css` files)  |
 | `images/`                 | Contains preview image & icon assets      |
 | `images/preview.PNG`      | Preview screenshot (not embedded here)    |
@@ -42,4 +42,4 @@ git clone https://github.com/syedthedev/youtube-clone-ui.git
 # 2. Navigate to the project folder
 cd youtube-clone-ui/Youtube Clone
 
-# 3. Open index.html in your browser
+# 3. Open youtube.html in your browser
